@@ -6,12 +6,3 @@ Master the skills you need to pass the Data Scientist Professional with Python c
 
 ## Table of Contents
 
-BLOCK 1
-1. Introduction to Python
-2. Intermediate Python
-3. Data Manipulation with pandas
-4. Joining Data with pandas
-
-...
-
-
