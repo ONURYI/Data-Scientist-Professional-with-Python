@@ -7,7 +7,7 @@ Master the skills you need to pass the Data Scientist Professional with Python c
 ## Table of Contents
 
 1. Introduction to Python
-Intermediate Python
+2. Intermediate Python
 Solidify Your Knowledge from Previous Courses
 Project: Investigating Netflix Movies and Guest Stars in The Office
 Data Manipulation with pandas
