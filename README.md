@@ -6,7 +6,7 @@ Master the skills you need to pass the Data Scientist Professional with Python c
 
 ## Table of Contents
 
-Block I - Python + Pandas 
+### Block I - Python + Pandas
 
 1. Introduction to Python
 2. Intermediate Python
@@ -14,14 +14,14 @@ Block I - Python + Pandas
 4. Joining Data with Pandas
 
 
-Block II - Data Visualization
+### Block II - Data Visualization
 
 1. Introduction to Data Visualization with Matplotlib
 2. Introduction to Data Visualization with Seaborn
 3. Intermediate Data Visualization with Seaborn
 
 
-BLOCK III - Data Science ToolBox
+### BLOCK III - Data Science ToolBox
 
 1. Python Data Science Toolbox (Part 1)
 2. Python Data Science Toolbox (Part 2)
@@ -37,7 +37,7 @@ BLOCK III - Data Science ToolBox
 12. Introduction to Git
 
 
-BLOCK IV - Statistics
+### BLOCK IV - Statistics
 
 1. Introduction to Statistics in Python
 2. Introduction to Regression with statsmodels in Python
@@ -45,7 +45,7 @@ BLOCK IV - Statistics
 4. Hypothesis Testing in Python
 
 
-BLOCK V -  Machine Learning
+### BLOCK V -  Machine Learning
 
 1. Supervised Learning with scikit-learn
 2. Unsupervised Learning with scikit-learn
@@ -54,7 +54,7 @@ BLOCK V -  Machine Learning
 6. Machine Learning for Business
 
 
-BLOCK VI - SQL
+### BLOCK VI - SQL
 
 1. Introduction to SQL
 2. Intermediate SQL
