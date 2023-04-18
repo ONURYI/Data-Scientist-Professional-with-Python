@@ -1,4 +1,4 @@
-# Data Scientist Professional with Python in Datacamp
+# Data Scientist Professional with Python in DataCamp
 
 https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-python
 
