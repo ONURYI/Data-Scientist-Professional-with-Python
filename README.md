@@ -4,6 +4,11 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 
 This repository is dedicated to helping individuals obtain their 🏅 Data Science Professional Certificate through the 🎓 DataCamp platform. All the courses and resources provided here are 🤝 licensed by DataCamp.
 
+<p align="right">
+  <img src="images/Datacamp-Review-Logo.png" alt="DataCamp Logo">
+</p>
+
+
 ## Table of Contents
 
 ### Block I - Python and Pandas
