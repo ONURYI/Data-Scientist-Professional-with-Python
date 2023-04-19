@@ -2,7 +2,7 @@
 
 https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-python
 
-Master the skills you need to pass the Data Scientist Professional with Python certification and prepare yourself for success in the field of data science.
+This repository is dedicated to helping individuals obtain their 🏅 Data Science Professional Certificate through the 🎓 DataCamp platform. All the courses and resources provided here are 🤝 licensed by DataCamp.
 
 ## Table of Contents
 
