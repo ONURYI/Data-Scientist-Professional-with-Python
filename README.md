@@ -3,7 +3,7 @@
 https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-python
 
 <p align="right">
-  <img src="https://skillspot.co/wp-content/uploads/2021/02/Datacamp-Review-Logo.png" alt="DataCamp Logo" width="200">
+  <img src="https://skillspot.co/wp-content/uploads/2021/02/Datacamp-Review-Logo.png" alt="DataCamp Logo" width="300">
 </p>
 
 
