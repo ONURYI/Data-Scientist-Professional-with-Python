@@ -5,7 +5,7 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 This repository is dedicated to helping individuals obtain their 🏅 Data Science Professional Certificate through the 🎓 DataCamp platform. All the courses and resources provided here are 🤝 licensed by DataCamp.
 
 <p align="right">
-  <img src="https://skillspot.co/wp-content/uploads/2021/02/Datacamp-Review-Logo.png" alt="DataCamp Logo">
+  <img src="https://skillspot.co/wp-content/uploads/2021/02/Datacamp-Review-Logo.png" alt="DataCamp Logo" width="200">
 </p>
 
 
