@@ -1,6 +1,6 @@
 # Data Scientist Professional with Python in DataCamp
 
-<p align="right">
+<p align="center">
   <img src="https://skillspot.co/wp-content/uploads/2021/02/Datacamp-Review-Logo.png" alt="DataCamp Logo" width="300">
 </p>
 
