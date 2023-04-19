@@ -6,7 +6,7 @@ Master the skills you need to pass the Data Scientist Professional with Python c
 
 ## Table of Contents
 
-### Block I - Python + Pandas
+### Block I - Python and Pandas
 
 1. Introduction to Python
 2. Intermediate Python
