@@ -66,7 +66,6 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 ### BLOCK VII - Software Engineering
 1. Developing Python Packages
 2. Introduction to Git
-
 3. Software Engineering for Data Scientists in Python (optional)
 
 
