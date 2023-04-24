@@ -25,7 +25,15 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 3. Intermediate Data Visualization with Seaborn
 
 
-### BLOCK III - Data Science ToolBox
+### BLOCK III - Statistics
+
+1. Introduction to Statistics in Python
+2. Introduction to Regression with statsmodels in Python
+3. Sampling in Python
+4. Hypothesis Testing in Python
+
+
+### BLOCK IV - Data Science Toolbox
 
 1. Python Data Science Toolbox (Part 1)
 2. Python Data Science Toolbox (Part 2)
@@ -37,15 +45,6 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 8. Working with Dates and Times in Python
 9. Writing Functions in Python
 10. Intermediate Importing Data in Python
-
-
-### BLOCK IV - Statistics
-
-1. Introduction to Statistics in Python
-2. Introduction to Regression with statsmodels in Python
-3. Sampling in Python
-4. Hypothesis Testing in Python
-
 
 ### BLOCK V -  Machine Learning
 
