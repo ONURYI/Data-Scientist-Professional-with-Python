@@ -37,8 +37,6 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 8. Working with Dates and Times in Python
 9. Writing Functions in Python
 10. Intermediate Importing Data in Python
-11. Developing Python Packages
-12. Introduction to Git
 
 
 ### BLOCK IV - Statistics
@@ -65,6 +63,12 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 3. Joining Data in SQL
 
 
+### BLOCK VII - Software Engineering
+1. Developing Python Packages
+2. Introduction to Git
+
+Optional:
+3. Software Engineering for Data Scientists in Python
 
 
 
