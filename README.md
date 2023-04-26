@@ -46,7 +46,7 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 9. Writing Functions in Python
 10. Intermediate Importing Data in Python
 
-### BLOCK V -  Machine Learning
+### BLOCK V - Machine Learning
 
 1. Supervised Learning with scikit-learn
 2. Unsupervised Learning with scikit-learn
