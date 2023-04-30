@@ -51,8 +51,8 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 1. Supervised Learning with scikit-learn
 2. Unsupervised Learning with scikit-learn
 3. Machine Learning with Tree-Based Models in Python
-5. Preprocessing for Machine Learning in Python
-6. Machine Learning for Business
+4. Preprocessing for Machine Learning in Python
+5. Machine Learning for Business
 
 
 ### BLOCK VI - SQL
