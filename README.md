@@ -30,7 +30,8 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 1. Introduction to Statistics in Python
 2. Introduction to Regression with statsmodels in Python
 3. Sampling in Python
-4. Hypothesis Testing in Python
+4. Performing Experiments in Python
+5. Hypothesis Testing in Python
 
 
 ### BLOCK IV - Data Science Toolbox
@@ -50,9 +51,10 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 
 1. Supervised Learning with scikit-learn
 2. Unsupervised Learning with scikit-learn
-3. Machine Learning with Tree-Based Models in Python
-4. Preprocessing for Machine Learning in Python
-5. Machine Learning for Business
+3. Linear Classifiers in Python
+4. Machine Learning with Tree-Based Models in Python
+5. Preprocessing for Machine Learning in Python
+6. Machine Learning for Business
 
 
 ### BLOCK VI - SQL
