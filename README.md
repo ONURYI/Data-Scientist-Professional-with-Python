@@ -50,8 +50,8 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 ### BLOCK V - Machine Learning
 
 1. Supervised Learning with scikit-learn (+ additional content!)
-2. Unsupervised Learning with scikit-learn
-3. Linear Classifiers in Python
+2. Linear Classifiers in Python
+3. Unsupervised Learning with scikit-learn
 4. Machine Learning with Tree-Based Models in Python
 5. Preprocessing for Machine Learning in Python
 6. Machine Learning for Business
