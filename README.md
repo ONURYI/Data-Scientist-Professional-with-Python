@@ -30,8 +30,9 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-py
 1. Introduction to Statistics in Python
 2. Introduction to Regression with statsmodels in Python
 3. Sampling in Python
-4. Performing Experiments in Python
-5. Hypothesis Testing in Python
+4. Hypothesis Testing in Python
+5. Performing Experiments in Python (optional)
+
 
 
 ### BLOCK IV - Data Science Toolbox
